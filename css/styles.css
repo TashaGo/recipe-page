@@ -108,6 +108,9 @@ color: #7A284E;
    section:last-child p {
     margin-bottom: 24px;
    }
+p:not(:last-child) {
+    margin-bottom: 32px;
+   }
    hr{
     margin-bottom: 32px;
     border-color: #E3DDD7;
